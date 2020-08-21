@@ -101,6 +101,31 @@ strong {
     padding-left: 15px;
 }
 
+.col-md-6 {
+    width: 50%;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: left;
+    line-height: 3;
+}
+
+ul.no-bullets {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.ability-title {
+    font-size: 15px;
+    display: inline-block;
+    width: 60%;
+}
+.rate {
+    width: 13px;
+    height: 13px;
+}
+
 .text-center {
     text-align: center;
 }
