@@ -165,6 +165,10 @@ ul.no-bullets {
     flex: 300px;
 }
 
+.checked {
+    color: orange;
+}
+
 .last {
     background-color: #424242;
     margin: 0;
