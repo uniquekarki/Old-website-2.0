@@ -169,6 +169,22 @@ ul.no-bullets {
     color: orange;
 }
 
+.image-card {
+    position: relative;
+    border-radius: 10%;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+
+figcaption{
+    margin-top: -20px;
+    font-size: 18px;
+    color: #3B85AA;
+}
+
 .last {
     background-color: #424242;
     margin: 0;
