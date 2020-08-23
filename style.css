@@ -64,6 +64,12 @@ h3 {
 
 }
 
+h4 {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
 p.lead {
     font-size: 28px;
     font-weight: lighter;
@@ -189,9 +195,8 @@ figcaption{
     background-color: #424242;
     margin: 0;
     padding: 0;
-    height: 632px;
+    height: auto;
     min-width: 100%;
-
 }
 
 .last-title {
