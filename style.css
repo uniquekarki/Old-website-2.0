@@ -20,7 +20,7 @@ html,body
     background-attachment: fixed;
     margin: 0;
     padding: 0;
-    height: 632px;
+    height: 100%
 }
 
 .container {
